@@ -5,6 +5,11 @@ Use a nodebot to find all the faces, and take pictures of them.
 
 ![Example Picture](/example.jpg)
 
+Use:
+- Install dependencies (and OpenCV)
+- connect to nodebot
+- run script
+
 To Do:
 
 - Clean up code.
