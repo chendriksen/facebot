@@ -56,5 +56,4 @@ client
     // ok, stop and land now
     this.stop();
     this.land();
-    process.exit;
   });
