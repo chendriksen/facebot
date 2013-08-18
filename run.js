@@ -14,7 +14,7 @@ var snap = function(picture){
       var x = faces[i]
       im.ellipse(x.x + x.width/2, x.y + x.height/2, x.width/2, x.height/2);
       count ++;
-      im.save('./faces/out' + count + '.jpg');
+      im.save('./face' + count + '.jpg');
       console.log("found a face")
     }
   });
